@@ -1,2 +1,2 @@
-# C-C-_programming
+# C_programming
 C/C++ 연습
