@@ -1,3 +1,4 @@
+// 무의미 해져서, 중단함
 #include <iostream>
 using namespace std;
 
@@ -31,6 +32,7 @@ public:
 };
 
 	// https://kin.naver.com/qna/detail.nhn?d1id=1&dirId=1040101&docId=303730404&qb=6rCI67mE7LSI67Cl&enc=utf8&section=kin.qna&rank=17&search_sort=0&spq=0
+	// C++ string 배열 사용해서, 랜덤으로 출력 시도하기
 
 void random() {
 	// 6명 경우 -> 모두 1명씩
